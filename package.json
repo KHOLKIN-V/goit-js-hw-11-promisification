@@ -1,11 +1,11 @@
 {
   "name": "goit-js-hw-11-promisification",
   "version": "1.0.0",
-  "description": "Напиши функцию `delay(ms)`, которая возвращает промис, переходящий в состояние `\"resolved\"` через `ms` миллисекунд. Значением исполнившегося промиса должно быть то кол-во миллисекунд которое передали во время вызова функции `delay`.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parsel src/index.html",
-    "build": "parsel build src/index.html --public-url /goit-js-hw-11-promisification/",
+    "dev": "parсel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-promisification/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
