@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/KHOLKIN-V/goit-js-hw-11-promisification/issues"
   },
-  "homepage": "https://github.com/KHOLKIN-V/goit-js-hw-11-promisification#readme",
+  "homepage": "https://KHOLKIN-V.github.io/goit-js-hw-11-promisification",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "parcel-bundler": "^1.12.5",
