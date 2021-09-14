@@ -86,3 +86,5 @@ const delay = ms => {
   makeTransaction({ id: 73, amount: 100 })
     .then(logSuccess)
     .catch(logError);
+
+    // обновление
